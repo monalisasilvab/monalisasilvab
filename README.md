@@ -1,6 +1,6 @@
 ## Hi, I'm Monalisa Bezerra 👋
 
-**`Desenvolvedora FullStack`**
+**`Full Stack Developer`**
 
 🎓 Computer engineering student at the Federal University of Ceara <p>
 💡 Passionate about technology and software development <p>
