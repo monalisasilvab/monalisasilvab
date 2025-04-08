@@ -4,7 +4,7 @@
 
 🎓 Computer engineering student at the Federal University of Ceara <p>
 💡 Passionate about technology and software development <p>
-🔬 Interests: Data analysis and web development <p>
+🔬 Interests: Data analysis and software development <p>
 
 
 ## 🌐 Socials:
